@@ -1,0 +1,17 @@
+.products{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding: 10px 0px;
+    border-right: 1px solid gold;
+}
+.product h4{
+    color: green;
+}
+.product button{
+    background: gold;
+    border: 1px solid grey;
+    padding: 5px 10px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
